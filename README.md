@@ -46,7 +46,7 @@ I am Temitope Adenekan, a **Frontend Web Developer** (particularly in **ReactJS*
 ### Database
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongoDB-%2307405e.svg?style=for-the-badge&logo=mongo&logoColor=white)
 
 <!--### Design Tools-->
 
