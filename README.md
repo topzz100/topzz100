@@ -27,10 +27,10 @@ I am Temitope Adenekan, a **Frontend Web Developer** (particularly in **ReactJS*
 
 ### Frameworks
 
-![React.js](https://img.shields.io/badge/-Laravel-%231572B6?style=for-the-badge&color=FF2D20&logo=React.js&logoColor=ffffff)
-![Express.js](https://img.shields.io/badge/-Vue.js-%234FC08D?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+VnVlLmpzPC90aXRsZT48cGF0aCBkPSJNMjQsMS42MUgxNC4wNkwxMiw1LjE2LDkuOTQsMS42MUgwTDEyLDIyLjM5Wk0xMiwxNC4wOCw1LjE2LDIuMjNIOS41OUwxMiw2LjQxbDIuNDEtNC4xOGg0LjQzWiIgZmlsbD0id2hpdGUiLz48L3N2Zz4K)
-![Flutter](https://img.shields.io/badge/-Livewire-%231572B6?style=for-the-badge&color=4E56A6&logo=flutter&logoColor=ffffff)
-![Django](https://img.shields.io/badge/-Alpine.js-%231572B6?style=for-the-badge&color=8BC0D0&logo=django&logoColor=000000)
+![React.js](https://img.shields.io/badge/-React.js-%231572B6?style=for-the-badge&color=FF2D20&logo=react.js&logoColor=ffffff)
+![Express.js](https://img.shields.io/badge/-express.js-%234FC08D?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+VnVlLmpzPC90aXRsZT48cGF0aCBkPSJNMjQsMS42MUgxNC4wNkwxMiw1LjE2LDkuOTQsMS42MUgwTDEyLDIyLjM5Wk0xMiwxNC4wOCw1LjE2LDIuMjNIOS41OUwxMiw2LjQxbDIuNDEtNC4xOGg0LjQzWiIgZmlsbD0id2hpdGUiLz48L3N2Zz4K)
+![Flutter](https://img.shields.io/badge/-Flutter-%231572B6?style=for-the-badge&color=4E56A6&logo=flutter&logoColor=ffffff)
+![Django](https://img.shields.io/badge/-Django-%231572B6?style=for-the-badge&color=8BC0D0&logo=django&logoColor=000000)
 
 <!-- ### Cross Platform Development -->
 
