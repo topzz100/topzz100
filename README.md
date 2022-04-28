@@ -14,7 +14,7 @@ I am Temitope Adenekan, a **Frontend Web Developer** (particularly in **ReactJS*
 ### Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
-![Python](https://img.shields.io/badge/-PHP-%231572B6?style=for-the-badge&color=blue&logo=php&logoColor=ffffff)
+![Python](https://img.shields.io/badge/-PHP-%231572B6?style=for-the-badge&color=blue&logo=python&logoColor=ffffff)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 <!-- ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) -->
 <!-- ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) -->
@@ -27,10 +27,10 @@ I am Temitope Adenekan, a **Frontend Web Developer** (particularly in **ReactJS*
 
 ### Frameworks
 
-![React.js](https://img.shields.io/badge/-Laravel-%231572B6?style=for-the-badge&color=FF2D20&logo=laravel&logoColor=ffffff)
+![React.js](https://img.shields.io/badge/-Laravel-%231572B6?style=for-the-badge&color=FF2D20&logo=React.js&logoColor=ffffff)
 ![Express.js](https://img.shields.io/badge/-Vue.js-%234FC08D?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+VnVlLmpzPC90aXRsZT48cGF0aCBkPSJNMjQsMS42MUgxNC4wNkwxMiw1LjE2LDkuOTQsMS42MUgwTDEyLDIyLjM5Wk0xMiwxNC4wOCw1LjE2LDIuMjNIOS41OUwxMiw2LjQxbDIuNDEtNC4xOGg0LjQzWiIgZmlsbD0id2hpdGUiLz48L3N2Zz4K)
-![Flutter](https://img.shields.io/badge/-Livewire-%231572B6?style=for-the-badge&color=4E56A6&logo=livewire&logoColor=ffffff)
-![Django](https://img.shields.io/badge/-Alpine.js-%231572B6?style=for-the-badge&color=8BC0D0&logo=Alpine.js&logoColor=000000)
+![Flutter](https://img.shields.io/badge/-Livewire-%231572B6?style=for-the-badge&color=4E56A6&logo=flutter&logoColor=ffffff)
+![Django](https://img.shields.io/badge/-Alpine.js-%231572B6?style=for-the-badge&color=8BC0D0&logo=django&logoColor=000000)
 
 <!-- ### Cross Platform Development -->
 
