@@ -14,7 +14,7 @@ I am Temitope Adenekan, a **Frontend Web Developer** (particularly in **ReactJS*
 ### Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
-![Python](https://img.shields.io/badge/-PHP-%231572B6?style=for-the-badge&color=blue&logo=python&logoColor=ffffff)
+![Python](https://img.shields.io/badge/-Python-%231572B6?style=for-the-badge&color=blue&logo=python&logoColor=ffffff)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 <!-- ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) -->
 <!-- ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) -->
