@@ -69,7 +69,7 @@ I am Temitope Adenekan, a **Frontend Web Developer** (particularly in **ReactJS*
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://topzz-portfolio.netlify.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adenekantope@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tope-adenekan-4382b2ab/)
-[![Twitter](https://img.shields.io/badge/nowodev-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/adenekan_tope/)
+[![Twitter](https://img.shields.io/badge/topzz100-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/adenekan_tope/)
 
 ## 📈 Stats
 
