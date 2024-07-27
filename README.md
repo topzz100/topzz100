@@ -15,7 +15,7 @@ I am Temitope Adenekan, a **Frontend Web Developer** (particularly in **ReactJS*
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
 ![Python](https://img.shields.io/badge/-Python-%231572B6?style=for-the-badge&color=blue&logo=python&logoColor=ffffff)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+
 <!-- ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) -->
 <!-- ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) -->
 
@@ -24,12 +24,12 @@ I am Temitope Adenekan, a **Frontend Web Developer** (particularly in **ReactJS*
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCss-%231a202c?style=for-the-badge&logo=tailwind-css)
+![Bootstrap](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3ABootstrap_logo.svg&psig=AOvVaw0mTI9_5D8jGkwOgiqXRxzV&ust=1722128067378000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCRs4-BxocDFQAAAAAdAAAAABAE)
 
 ### Frameworks
 
 ![React.js](https://img.shields.io/badge/-React.js-%231572B6?style=for-the-badge&color=FF2D20&logo=react.js&logoColor=ffffff)
 ![Express.js](https://img.shields.io/badge/-express.js-%234FC08D?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+VnVlLmpzPC90aXRsZT48cGF0aCBkPSJNMjQsMS42MUgxNC4wNkwxMiw1LjE2LDkuOTQsMS42MUgwTDEyLDIyLjM5Wk0xMiwxNC4wOCw1LjE2LDIuMjNIOS41OUwxMiw2LjQxbDIuNDEtNC4xOGg0LjQzWiIgZmlsbD0id2hpdGUiLz48L3N2Zz4K)
-![Flutter](https://img.shields.io/badge/-Flutter-%231572B6?style=for-the-badge&color=4E56A6&logo=flutter&logoColor=ffffff)
 ![Django](https://img.shields.io/badge/-Django-%231572B6?style=for-the-badge&color=8BC0D0&logo=django&logoColor=000000)
 
 <!-- ### Cross Platform Development -->
@@ -37,7 +37,7 @@ I am Temitope Adenekan, a **Frontend Web Developer** (particularly in **ReactJS*
 <!-- ![flutter](https://img.shields.io/badge/Flutter-28B6F6?style=for-the-badge&logo=flutter&logoColor=white)-->
 
 ### Hosting
-
+![DigitalOcean](https://www.google.com/url?sa=i&url=https%3A%2F%2Fworldvectorlogo.com%2Flogo%2Fdigitalocean-icon-1&psig=AOvVaw0ym-2TBB0hqF2PlLxn9InB&ust=1722128226380000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPC48NuBxocDFQAAAAAdAAAAABAI)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
