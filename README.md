@@ -37,7 +37,7 @@ I am Temitope Adenekan, a **Frontend Web Developer** (particularly in **ReactJS*
 <!-- ![flutter](https://img.shields.io/badge/Flutter-28B6F6?style=for-the-badge&logo=flutter&logoColor=white)-->
 
 ### Hosting
-![DigitalOcean](https://www.google.com/url?sa=i&url=https%3A%2F%2Fworldvectorlogo.com%2Flogo%2Fdigitalocean-icon-1&psig=AOvVaw0ym-2TBB0hqF2PlLxn9InB&ust=1722128226380000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPC48NuBxocDFQAAAAAdAAAAABAI)
+![DigitalOcean]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fworldvectorlogo.com%2Flogo%2Fdigitalocean-icon-1&psig=AOvVaw0ym-2TBB0hqF2PlLxn9InB&ust=1722128226380000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPC48NuBxocDFQAAAAAdAAAAABA](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FMikeCodesDotNET%2FColoredBadges%2Fissues%2F28&psig=AOvVaw3K9_xca2XlSxnbNTBPrSPw&ust=1722128353862000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOi_95mCxocDFQAAAAAdAAAAABAE)I)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
